@@ -9,3 +9,5 @@ This is from staging.
 
 this is a new line.
 
+This is from test.
+stashed data.
